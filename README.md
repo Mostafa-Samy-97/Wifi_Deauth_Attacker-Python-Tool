@@ -1,4 +1,4 @@
-# Wifi_Deauth_Attacker-Python-Tool
+# Wifi_Deauth_Attacker-Python-Tool 1.0
 
 # this Simple tool help you to perform Deauth Attacks on Wireless network like aireplay-ng tool
 
